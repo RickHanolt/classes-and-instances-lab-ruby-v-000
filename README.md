@@ -33,3 +33,18 @@ Under your `Person` class definition, create two people in local variables, `ade
 When you're done, submit the lab with `learn submit`.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/classes-and-instances-lab-ruby' title='Classes And Instances Lab Ruby'>Classes And Instances Lab Ruby</a> on Learn.co and start learning to code for free.</p>
+
+class Dog
+
+end
+
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
+
+class Person
+
+end
+
+adele_goldberg = Person.new
+alan_kay = Person.new
